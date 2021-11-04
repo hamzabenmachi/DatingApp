@@ -1,0 +1,7 @@
+C:\Users\hamza.benmachi\DatingApp\obj\Debug\net5.0\DatingApp.csproj.AssemblyReference.cache
+C:\Users\hamza.benmachi\DatingApp\obj\Debug\net5.0\DatingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza.benmachi\DatingApp\obj\Debug\net5.0\DatingApp.AssemblyInfoInputs.cache
+C:\Users\hamza.benmachi\DatingApp\obj\Debug\net5.0\DatingApp.AssemblyInfo.cs
+C:\Users\hamza.benmachi\DatingApp\obj\Debug\net5.0\DatingApp.csproj.CoreCompileInputs.cache
+C:\Users\hamza.benmachi\DatingApp\obj\Debug\net5.0\DatingApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hamza.benmachi\DatingApp\obj\Debug\net5.0\DatingApp.MvcApplicationPartsAssemblyInfo.cache

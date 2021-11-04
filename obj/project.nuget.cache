@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ilK3qTa4mQW2lbZiMkcUiNueaMHwZC7eFh36HmgkgvNz8XYUSq7zQSejvB4vstl2vR4Np1VyrBaj/Nd4im8XrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hamza.benmachi\\DatingApp\\DatingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamza.benmachi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\hamza.benmachi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hamza.benmachi\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\hamza.benmachi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\hamza.benmachi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\hamza.benmachi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

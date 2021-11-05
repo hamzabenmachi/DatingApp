@@ -7,9 +7,11 @@ C:\Users\hamza.benmachi\DatingApp\API\bin\Debug\net5.0\api.runtimeconfig.dev.jso
 C:\Users\hamza.benmachi\DatingApp\API\bin\Debug\net5.0\api.dll
 C:\Users\hamza.benmachi\DatingApp\API\bin\Debug\net5.0\ref\api.dll
 C:\Users\hamza.benmachi\DatingApp\API\bin\Debug\net5.0\api.pdb
+C:\Users\hamza.benmachi\DatingApp\API\bin\Debug\net5.0\Humanizer.dll
 C:\Users\hamza.benmachi\DatingApp\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 C:\Users\hamza.benmachi\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\hamza.benmachi\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hamza.benmachi\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\hamza.benmachi\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\hamza.benmachi\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\hamza.benmachi\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
@@ -41,6 +43,7 @@ C:\Users\hamza.benmachi\DatingApp\API\bin\Debug\net5.0\runtimes\win-x86\native\M
 C:\Users\hamza.benmachi\DatingApp\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\hamza.benmachi\DatingApp\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\hamza.benmachi\DatingApp\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\api.csproj.AssemblyReference.cache
 C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\api.AssemblyInfoInputs.cache
 C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\api.AssemblyInfo.cs
@@ -51,10 +54,8 @@ C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\staticwebassets\api.Stati
 C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\staticwebassets\api.StaticWebAssets.xml
 C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\scopedcss\bundle\api.styles.css
 C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\api.RazorTargetAssemblyInfo.cache
+C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\api.csproj.CopyComplete
 C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\api.dll
 C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\ref\api.dll
 C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\api.pdb
 C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\api.genruntimeconfig.cache
-C:\Users\hamza.benmachi\DatingApp\api\obj\Debug\net5.0\api.csproj.AssemblyReference.cache
-C:\Users\hamza.benmachi\DatingApp\API\bin\Debug\net5.0\Humanizer.dll
-C:\Users\hamza.benmachi\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll

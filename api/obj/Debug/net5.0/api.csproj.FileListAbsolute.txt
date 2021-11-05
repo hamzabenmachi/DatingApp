@@ -54,8 +54,8 @@ C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\staticwebassets\api.Stati
 C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\staticwebassets\api.StaticWebAssets.xml
 C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\scopedcss\bundle\api.styles.css
 C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\api.RazorTargetAssemblyInfo.cache
-C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\api.csproj.CopyComplete
 C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\api.dll
 C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\ref\api.dll
 C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\api.pdb
 C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\api.genruntimeconfig.cache
+C:\Users\hamza.benmachi\DatingApp\api\obj\Debug\net5.0\api.csproj.CopyComplete

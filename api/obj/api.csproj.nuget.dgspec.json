@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hamza.benmachi\\DatingApp\\API\\api.csproj": {}
+    "C:\\Users\\hamza.benmachi\\DatingApp\\api\\api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hamza.benmachi\\DatingApp\\API\\api.csproj": {
+    "C:\\Users\\hamza.benmachi\\DatingApp\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hamza.benmachi\\DatingApp\\API\\api.csproj",
+        "projectUniqueName": "C:\\Users\\hamza.benmachi\\DatingApp\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\Users\\hamza.benmachi\\DatingApp\\API\\api.csproj",
+        "projectPath": "C:\\Users\\hamza.benmachi\\DatingApp\\api\\api.csproj",
         "packagesPath": "C:\\Users\\hamza.benmachi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hamza.benmachi\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\hamza.benmachi\\DatingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hamza.benmachi\\AppData\\Roaming\\NuGet\\NuGet.Config",

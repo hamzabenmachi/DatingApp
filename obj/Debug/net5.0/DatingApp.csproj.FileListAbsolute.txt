@@ -5,3 +5,5 @@ C:\Users\hamza.benmachi\DatingApp\obj\Debug\net5.0\DatingApp.AssemblyInfo.cs
 C:\Users\hamza.benmachi\DatingApp\obj\Debug\net5.0\DatingApp.csproj.CoreCompileInputs.cache
 C:\Users\hamza.benmachi\DatingApp\obj\Debug\net5.0\DatingApp.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\hamza.benmachi\DatingApp\obj\Debug\net5.0\DatingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hamza.benmachi\DatingApp\obj\Debug\net5.0\DatingApp.RazorAssemblyInfo.cache
+C:\Users\hamza.benmachi\DatingApp\obj\Debug\net5.0\DatingApp.RazorAssemblyInfo.cs

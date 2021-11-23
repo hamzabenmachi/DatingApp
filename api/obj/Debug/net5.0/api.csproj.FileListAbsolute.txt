@@ -59,4 +59,7 @@ C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\api.pdb
 C:\Users\hamza.benmachi\DatingApp\API\obj\Debug\net5.0\api.genruntimeconfig.cache
 C:\Users\hamza.benmachi\DatingApp\api\obj\Debug\net5.0\api.csproj.AssemblyReference.cache
 C:\Users\hamza.benmachi\DatingApp\api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hamza.benmachi\DatingApp\api\bin\Debug\net5.0\Data\UserSeedData.json
+C:\Users\hamza.benmachi\DatingApp\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\hamza.benmachi\DatingApp\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\hamza.benmachi\DatingApp\api\obj\Debug\net5.0\api.csproj.CopyComplete

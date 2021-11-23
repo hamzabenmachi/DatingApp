@@ -1,23 +1,22 @@
-﻿using api.Extensions;
+﻿using api.Entities;
+using api.Extensions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace api.Entities
+namespace api.DTOs
 {
-    public class AppUser
+    public class MemberDto
     {
         public int Id { get; set; }
         public string UserName { get; set; }
 
-        public byte[] PasswordHash { get; set; }
-
-        public byte[] PasswordSalt { get; set; }
-
-        public DateTime DateOfBirth { get; set; }
+        public int Age { get; set; }
 
         public String KnownAs { get; set; }
+
+        public string PhotoUrl { get; set; }
 
         public DateTime Created { get; set; }
 
@@ -37,12 +36,8 @@ namespace api.Entities
         public String MyProperty { get; set; }
         public String Country { get; set; }
 
-        public ICollection<Photo> Photos { get; set; }
+        public ICollection<PhotoDTO> Photos { get; set; }
 
-        public int GetAge()
-        {
-            return DateOfBirth.CalculateAge();
-        } 
-
+        
     }
 }

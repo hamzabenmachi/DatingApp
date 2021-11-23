@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hamza.benmachi\\DatingApp\\api\\api.csproj": {}
+    "C:\\Users\\hamza.benmachi\\DatingApp\\API\\api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hamza.benmachi\\DatingApp\\api\\api.csproj": {
+    "C:\\Users\\hamza.benmachi\\DatingApp\\API\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hamza.benmachi\\DatingApp\\api\\api.csproj",
+        "projectUniqueName": "C:\\Users\\hamza.benmachi\\DatingApp\\API\\api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\Users\\hamza.benmachi\\DatingApp\\api\\api.csproj",
+        "projectPath": "C:\\Users\\hamza.benmachi\\DatingApp\\API\\api.csproj",
         "packagesPath": "C:\\Users\\hamza.benmachi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hamza.benmachi\\DatingApp\\api\\obj\\",
+        "outputPath": "C:\\Users\\hamza.benmachi\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hamza.benmachi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[3.1.7, )"

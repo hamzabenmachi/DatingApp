@@ -4,7 +4,7 @@ import { ToastrService } from 'ngx-toastr';
 import { Observable } from 'rxjs/internal/Observable';
 import { User } from '../_models/user';
  
-import { AccountService } from '../_servises/account.service';
+import { AccountService } from '../_services/account.service';
 
 @Component({
   selector: 'app-nav',
@@ -21,6 +21,7 @@ export class NavComponent implements OnInit {
 
   ngOnInit(): void {
     this.currentuser$ = this.accountService.currentuser$;
+   
   }
 
   login() {

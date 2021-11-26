@@ -42,7 +42,7 @@ namespace api.Services
 
             return tokenhandler.WriteToken(token);
 
-    return null;
+ 
    
         }
     }

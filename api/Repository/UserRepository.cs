@@ -33,7 +33,7 @@ namespace api.Repository
 
         public async Task<IEnumerable<MemberDto>> GetMembersAsync()
         {
-            return await _context.Users.ProjectTo<MemberDto>(_mapper.ConfigurationProvider).ToListAsync();
+            return (IEnumerable<MemberDto>)await _context.Users.ProjectTo<MemberDto>(_mapper.ConfigurationProvider).Distinct().ToListAsync();
                    
                 
         }

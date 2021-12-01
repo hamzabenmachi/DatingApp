@@ -9,6 +9,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -62,9 +63,16 @@ namespace api.Controllers
         }
 
         // PUT api/<UsersController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        [HttpPut]
+        public async Task<ActionResult> UpdateUserAsync(MemberUpdateDto member)
         {
+            var username = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+            var user = await _userRepository.GetUserByUsernameAsync(username);
+            _mapper.Map(member  , user);
+            _userRepository.Update(user);
+            if (await _userRepository.SaveAllAsync()) return NoContent();
+
+            return BadRequest("failed to update user");
         }
 
         // DELETE api/<UsersController>/5

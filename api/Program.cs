@@ -29,17 +29,17 @@ namespace api
 
                     if (context.Database.IsSqlServer())
                     {
-                        Console.WriteLine("here 1");
+                 
                         await context.Database.MigrateAsync();
                         await Seed.SeedUsers(context);
-                        Console.WriteLine("here 2");
+               
                     }
 
                   
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine("error");
+                   
                     var logger = scope.ServiceProvider.GetRequiredService<ILogger<Program>>();
 
                     logger.LogError(ex, "An error occurred while migrating or seeding the database.");
